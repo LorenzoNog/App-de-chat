@@ -1,0 +1,27 @@
+body{
+    background: linear-gradient(to right, #00b09b, #226553);
+}
+#bienvenido{
+    text-align: center;
+    font-family: 'indie flower',sans-serif;
+    font-size: 40px;
+    color: rgb(25, 32, 227);
+    padding: 10px;
+    text-transform: uppercase;
+}
+#NombreUsuario{
+    font-family: 'Anton',sans-serif;
+    font-size: 20px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+#mensaje{
+    width: 30%;
+    padding: 5px;
+}
+#btnEnviar{
+    background: none;
+    border-radius: 25px;
+    cursor: pointer;
+    padding: 3px;
+}
